@@ -95,3 +95,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+#custom
+.idea/compiler.xml
+.idea/misc.xml

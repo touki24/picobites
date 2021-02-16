@@ -1,2 +1,2 @@
-# picobites
+# PicoBites
 Picobites, food order android app
